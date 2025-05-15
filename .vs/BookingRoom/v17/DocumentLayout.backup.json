@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nada\\source\\repos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\bookingroom.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\bookingroom.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734F9A02-C8AF-4511-9C12-326AE5BFBB82}|BookingRoom.Infrastructure\\BookingRoom.Infrastructure.csproj|c:\\users\\nada\\source\\repos\\bookingroom.infrastructure\\migrations\\20250514233214_nada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734F9A02-C8AF-4511-9C12-326AE5BFBB82}|BookingRoom.Infrastructure\\BookingRoom.Infrastructure.csproj|solutionrelative:bookingroom.infrastructure\\migrations\\20250514233214_nada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B21BEE-18CA-41EC-92D7-4348DBACAF38}|BookingRoom.Application\\BookingRoom.Application.csproj|c:\\users\\nada\\source\\repos\\bookingroom.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B21BEE-18CA-41EC-92D7-4348DBACAF38}|BookingRoom.Application\\BookingRoom.Application.csproj|solutionrelative:bookingroom.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B21BEE-18CA-41EC-92D7-4348DBACAF38}|BookingRoom.Application\\BookingRoom.Application.csproj|c:\\users\\nada\\source\\repos\\bookingroom.application\\bookingroom.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62B21BEE-18CA-41EC-92D7-4348DBACAF38}|BookingRoom.Application\\BookingRoom.Application.csproj|solutionrelative:bookingroom.application\\bookingroom.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\readme.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\bookingroom.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\bookingroom.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|c:\\users\\nada\\source\\repos\\bookingroom.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5B8888-9E49-4E96-9D04-7ACD99194284}|BookingRoom.API\\BookingRoom.API.csproj|solutionrelative:bookingroom.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734F9A02-C8AF-4511-9C12-326AE5BFBB82}|BookingRoom.Infrastructure\\BookingRoom.Infrastructure.csproj|c:\\users\\nada\\source\\repos\\bookingroom.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734F9A02-C8AF-4511-9C12-326AE5BFBB82}|BookingRoom.Infrastructure\\BookingRoom.Infrastructure.csproj|solutionrelative:bookingroom.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2DF202-89C4-49D4-BE7F-68B83E1BD19E}|BookingRoom.Core\\BookingRoom.Core.csproj|c:\\users\\nada\\source\\repos\\bookingroom.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2DF202-89C4-49D4-BE7F-68B83E1BD19E}|BookingRoom.Core\\BookingRoom.Core.csproj|solutionrelative:bookingroom.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2DF202-89C4-49D4-BE7F-68B83E1BD19E}|BookingRoom.Core\\BookingRoom.Core.csproj|c:\\users\\nada\\source\\repos\\bookingroom.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2DF202-89C4-49D4-BE7F-68B83E1BD19E}|BookingRoom.Core\\BookingRoom.Core.csproj|solutionrelative:bookingroom.core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2DF202-89C4-49D4-BE7F-68B83E1BD19E}|BookingRoom.Core\\BookingRoom.Core.csproj|c:\\users\\nada\\source\\repos\\bookingroom.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2DF202-89C4-49D4-BE7F-68B83E1BD19E}|BookingRoom.Core\\BookingRoom.Core.csproj|solutionrelative:bookingroom.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookingRoom.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookingRoom.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T23:35:46.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "BookingRoom.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Application\\Class1.cs",
+              "RelativeToolTip": "BookingRoom.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:26:28.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingRoom.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Application\\BookingRoom.Application.csproj",
+              "RelativeDocumentMoniker": "BookingRoom.Application\\BookingRoom.Application.csproj",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Application\\BookingRoom.Application.csproj",
+              "RelativeToolTip": "BookingRoom.Application\\BookingRoom.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T23:26:25.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Readme.md",
+              "RelativeDocumentMoniker": "BookingRoom.API\\Readme.md",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Readme.md",
+              "RelativeToolTip": "BookingRoom.API\\Readme.md",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-14T23:25:37.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BookingRoom.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\appsettings.json",
+              "RelativeToolTip": "BookingRoom.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T23:24:29.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingRoom.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\BookingRoom.API.csproj",
+              "RelativeDocumentMoniker": "BookingRoom.API\\BookingRoom.API.csproj",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\BookingRoom.API.csproj",
+              "RelativeToolTip": "BookingRoom.API\\BookingRoom.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-14T23:22:17.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250514233214_nada.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Infrastructure\\Migrations\\20250514233214_nada.cs",
+              "RelativeDocumentMoniker": "BookingRoom.Infrastructure\\Migrations\\20250514233214_nada.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Infrastructure\\Migrations\\20250514233214_nada.cs",
+              "RelativeToolTip": "BookingRoom.Infrastructure\\Migrations\\20250514233214_nada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:32:16.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingRoom.API.http",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\BookingRoom.API.http",
+              "RelativeDocumentMoniker": "BookingRoom.API\\BookingRoom.API.http",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\BookingRoom.API.http",
+              "RelativeToolTip": "BookingRoom.API\\BookingRoom.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-14T23:24:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Program.cs",
+              "RelativeDocumentMoniker": "BookingRoom.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Program.cs",
+              "RelativeToolTip": "BookingRoom.API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:24:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "BookingRoom.API\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "BookingRoom.API\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAIwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:23:52.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "BookingRoom.API\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "BookingRoom.API\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:23:21.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BookingRoom.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BookingRoom.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:22:47.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookingRoom.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookingRoom.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAACAZWZmZmYSwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:21:52.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Core\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "BookingRoom.Core\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Core\\Models\\Booking.cs",
+              "RelativeToolTip": "BookingRoom.Core\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:21:03.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "BookingRoom.Core\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Core\\Models\\Room.cs",
+              "RelativeToolTip": "BookingRoom.Core\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:20:38.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookingRoom.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nada\\source\\repos\\BookingRoom.Core\\Models\\User.cs",
+              "RelativeToolTip": "BookingRoom.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:19:58.882Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

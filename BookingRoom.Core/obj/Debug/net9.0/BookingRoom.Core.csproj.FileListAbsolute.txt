@@ -1,0 +1,11 @@
+C:\Users\Nada\source\repos\BookingRoom.Core\bin\Debug\net9.0\BookingRoom.Core.deps.json
+C:\Users\Nada\source\repos\BookingRoom.Core\bin\Debug\net9.0\BookingRoom.Core.dll
+C:\Users\Nada\source\repos\BookingRoom.Core\bin\Debug\net9.0\BookingRoom.Core.pdb
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\BookingRoom.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\BookingRoom.Core.AssemblyInfoInputs.cache
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\BookingRoom.Core.AssemblyInfo.cs
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\BookingRoom.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\BookingRoom.Core.dll
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\refint\BookingRoom.Core.dll
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\BookingRoom.Core.pdb
+C:\Users\Nada\source\repos\BookingRoom.Core\obj\Debug\net9.0\ref\BookingRoom.Core.dll

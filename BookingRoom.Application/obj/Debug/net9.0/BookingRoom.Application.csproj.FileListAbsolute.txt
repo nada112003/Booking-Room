@@ -1,0 +1,15 @@
+C:\Users\Nada\source\repos\BookingRoom.Application\bin\Debug\net9.0\BookingRoom.Application.deps.json
+C:\Users\Nada\source\repos\BookingRoom.Application\bin\Debug\net9.0\BookingRoom.Application.dll
+C:\Users\Nada\source\repos\BookingRoom.Application\bin\Debug\net9.0\BookingRoom.Application.pdb
+C:\Users\Nada\source\repos\BookingRoom.Application\bin\Debug\net9.0\BookingRoom.Core.dll
+C:\Users\Nada\source\repos\BookingRoom.Application\bin\Debug\net9.0\BookingRoom.Core.pdb
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.csproj.AssemblyReference.cache
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.AssemblyInfoInputs.cache
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.AssemblyInfo.cs
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.csproj.CoreCompileInputs.cache
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingR.4997F4F8.Up2Date
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.dll
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\refint\BookingRoom.Application.dll
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\BookingRoom.Application.pdb
+C:\Users\Nada\source\repos\BookingRoom.Application\obj\Debug\net9.0\ref\BookingRoom.Application.dll
